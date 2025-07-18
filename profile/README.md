@@ -1,4 +1,4 @@
-# 🧬 PredicTx Health
+# PredicTx Health
 
 Welcome to the official GitHub Enterprise hub for **PredicTx Health** — Empowering Clinicians with AI-Powered Chemotherapy Dosing  
 
