@@ -13,7 +13,6 @@ Our flagship modules include:
 
 - **DoseTx** – Personalized dose prediction based on response and risk *(coming soon)*
 - **BoneTx** – Bone health monitoring from CT imaging *(coming soon)*
-- **MuscleTx** – Sarcopenia and cachexia tracking for oncology patients *(coming soon)*
 ---
 
 [Visit our website](https://www.predictx.health/)  
